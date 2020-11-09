@@ -1,9 +1,9 @@
 name: CombinedSlots
 main: jasonwynn10\CrossOnlineCount\Main
 version: 0.1.0
-api: [3.0.0-ALPHA6]
+api: 3.15.0
 load: STARTUP
-author: "jasonwynn10"
-description: "A PocketMine plugin which checks other servers for online players and displays THE INFORMATIONvia slappers"
+author: jasonwynn10
+description: A PocketMine plugin which checks other servers for online players and displays THE INFORMATIONvia slappers
 depend:
  - Slapper
